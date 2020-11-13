@@ -8,5 +8,5 @@ function f(x){
         return f(x-1)+f(x-2);
     }
 }
-var sum=f(7)
+var sum=f(8)
 console.log(sum);
